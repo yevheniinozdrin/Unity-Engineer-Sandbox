@@ -15,28 +15,18 @@ This repository documents my journey of exploring modern Unity workflows, archit
 
 ---
 
-## Repository Structure
+## Featured Topics
 
-Assets
-├── Common
-│   ├── Runtime
-│   ├── Editor
-│   ├── UI
-│   └── Scenes
-│
-├── Shared
-│
-└── Projects
-    ├── 01_ModularArchitecture
-    ├── 02_ScriptableObjects
-    ├── 03_EditorTooling
-    ├── 04_Addressables
-    ├── 05_ObjectPooling
-    ├── 06_SaveSystem
-    ├── 07_MobileOptimization
-    ├── 08_UIArchitecture
-    ├── 09_BuildPipeline
-    └── 10_MultiplayerConcepts
+- 🧩 Modular Architecture
+- 📦 ScriptableObjects
+- 🛠 Editor Tooling
+- 🚀 Addressables
+- ♻️ Object Pooling
+- 💾 Save Systems
+- 📱 Mobile Optimization
+- 🎨 UI Architecture
+- ⚙️ Build Pipeline
+- 🌐 Multiplayer Concepts
 
 ---
 
