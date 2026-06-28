@@ -1,91 +1,39 @@
 # Unity Engineer Sandbox
 
-A hands-on Unity engineering sandbox focused on production-ready workflows and architecture.
+A hands-on Unity engineering sandbox focused on production-ready workflows, performance optimization, and clean architecture.
 
-This repository documents my journey of exploring modern Unity workflows, architectural patterns, and engineering practices through small, self-contained projects inspired by real production challenges.
+This repository documents my journey of exploring modern Unity workflows, architectural patterns, and advanced engineering practices through small, self-contained projects inspired by real production challenges.
 
-## Objectives
-
-* Build production-ready Unity examples
-* Explore modern Unity architecture
-* Improve code quality and maintainability
-* Learn new Unity systems through practical implementation
-* Prepare for technical interviews
-* Apply modern Unity engineering practices to a commercial mobile game.
+## 🎯 Objectives
+* Build production-ready, scalable Unity examples.
+* Master modern Unity architecture (Data-Driven, Modular).
+* Minimize technical debt through strict code quality and maintainability.
+* Deep-dive into Unity 6 core systems through practical implementation.
+* Apply modern engineering practices to a live, commercial mobile game.
 
 ---
 
-## Featured Topics
-
-- 🧩 Modular Architecture
-- 📦 ScriptableObjects
-- 🛠 Editor Tooling
-- 🚀 Addressables
-- ♻️ Object Pooling
-- 💾 Save Systems
-- 📱 Mobile Optimization
-- 🎨 UI Architecture
-- ⚙️ Build Pipeline
-- 🌐 Multiplayer Concepts
+## 🧩 Featured Topics & Tech Stack
+* **Architecture:** Modular Design, Assembly Definitions, ScriptableObjects, UI Architecture (MVP/MVVM patterns).
+* **Memory & Assets:** Addressables (Asset Bundles), Object Pooling, Save Systems.
+* **Performance:** Mobile Optimization (CPU load, thermal management, draw call reduction), URP.
+* **Workflow:** Custom Editor Tooling, Automated Build Pipelines, Git/GitHub Actions.
 
 ---
 
-## Project Philosophy
+## 💡 Project Philosophy
+Each project in this repository focuses on solving a specific engineering bottleneck rather than simply demonstrating a Unity feature.
 
-Each project in this repository focuses on solving a real engineering problem rather than simply demonstrating a Unity feature.
+* **Problem:** How should immutable game data be organized without bloating memory?
+  * **Solution:** Data-driven configurations using **ScriptableObjects**.
+* **Problem:** How can large-scale Unity projects prevent tight coupling and long compile times?
+  * **Solution:** Decoupling modules using **Assembly Definitions (AsmDef)**.
+* **Problem:** How to reduce memory footprint and build size in content-heavy mobile apps?
+  * **Solution:** Dynamic asset streaming via **Addressables**.
 
-Example:
-
-**Question**
-
-How should immutable game data be organized?
-
-**Solution**
-
-ScriptableObjects
+*The goal is to understand not only how Unity features work, but why they should be used and which specific engineering problems they solve.*
 
 ---
 
-**Question**
-
-How can large Unity projects be organized into maintainable modules?
-
-**Solution**
-
-Assembly Definitions
-
----
-
-**Question**
-
-How should production assets be loaded efficiently?
-
-**Solution**
-
-Addressables
-
----
-
-The goal is to understand not only *how* Unity features work, but *why* they should be used and which engineering problems they solve.
-
----
-
-## Long-Term Goal
-
-Refactor an existing commercial mobile racing game using modern Unity architecture, engineering practices, and scalable production workflows.
-
----
-
-## Technologies
-
-* Unity 6
-* C#
-* URP
-* Addressables
-* ScriptableObjects
-* Assembly Definitions
-* Custom Editor Tools
-* Object Pooling
-* Mobile Optimization
-* Git
-* GitHub
+## 🚀 Long-Term Case Study
+A core driver for this sandbox is the architectural refactoring of an active commercial mobile racing game. The goal is to isolate legacy systems, optimize physics/AI scripts for low-end Android devices, and transition the project to a scalable, multi-module architecture.
