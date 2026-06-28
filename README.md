@@ -1,6 +1,6 @@
 # Unity Engineer Sandbox
 
-A hands-on Unity engineering sandbox focused on production-ready development.
+A hands-on Unity engineering sandbox focused on production-ready workflows and architecture.
 
 This repository documents my journey of exploring modern Unity workflows, architectural patterns, and engineering practices through small, self-contained projects inspired by real production challenges.
 
@@ -11,7 +11,7 @@ This repository documents my journey of exploring modern Unity workflows, archit
 * Improve code quality and maintainability
 * Learn new Unity systems through practical implementation
 * Prepare for technical interviews
-* Apply acquired knowledge to a commercial mobile game
+* Apply modern Unity engineering practices to a commercial mobile game.
 
 ---
 
@@ -32,7 +32,7 @@ This repository documents my journey of exploring modern Unity workflows, archit
 
 ## Project Philosophy
 
-Every project in this repository answers a real engineering question instead of simply demonstrating a Unity feature.
+Each project in this repository focuses on solving a real engineering problem rather than simply demonstrating a Unity feature.
 
 Example:
 
@@ -72,7 +72,7 @@ The goal is to understand not only *how* Unity features work, but *why* they sho
 
 ## Long-Term Goal
 
-Refactor a real commercial mobile racing game using modern Unity engineering practices and production-ready architecture.
+Refactor an existing commercial mobile racing game using modern Unity architecture, engineering practices, and scalable production workflows.
 
 ---
 
