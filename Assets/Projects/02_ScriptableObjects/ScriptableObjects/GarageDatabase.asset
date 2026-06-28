@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 267c18ca5890e0f4199b92aa7bc0ae7d, type: 3}
+  m_Name: GarageDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Cars.CarGarageDatabase
+  cars:
+  - {fileID: 11400000, guid: 567a7435246c2a44bbe73c8f0a6c1661, type: 2}
+  - {fileID: 11400000, guid: 6b33546c8eaaf454a9d00da9b3a72859, type: 2}
+  - {fileID: 11400000, guid: b65dc6808db3c8643aaed68758e575ba, type: 2}

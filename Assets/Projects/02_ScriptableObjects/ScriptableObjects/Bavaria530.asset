@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b70e8a8c2b301f34487df292049241fe, type: 3}
+  m_Name: Bavaria530
+  m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Cars.CarConfig
+  id: 
+  displayName: 
+  rarity: 0
+  icon: {fileID: 0}
+  prefab: {fileID: 0}
+  price: 0
+  unlockDistanceKm: 0
+  unlockedByDefault: 0
+  baseSpeed: 0
+  baseTorque: 0
+  baseHandling: 0
+  baseBrakes: 0
+  speedUpgradeMultiplier: 0.05
+  torqueUpgradeMultiplier: 0.05
+  handlingUpgradeMultiplier: 0.05
+  brakesUpgradeMultiplier: 0.05
